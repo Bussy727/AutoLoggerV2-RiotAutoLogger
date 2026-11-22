@@ -1,4 +1,5 @@
 # AutoLoggerV2-RiotAutoLogger# Autologger V2
+# Autologger V2
 
 **A Python-based Riot Games account login automation tool.**
 
@@ -134,17 +135,33 @@ There are two ways to run Autologger V2.
 
 ### Method 1: Using the Executable
 
-This is the easiest installation method.
+This is the easiest installation method. No Python installation or manual dependency setup is required.
 
-1. Download or clone the repository.
-2. Extract the project files if necessary.
-3. Locate `AutologgerV2.exe`.
-4. Double-click the executable to launch the application.
-5. Complete the initial master password setup.
+**Step 1. Download the latest release**
 
-No separate Python installation or manual dependency installation is required when using the provided executable.
+Visit the official GitHub Releases page to download the latest compiled version of Autologger V2:
 
-**Note:** Keep the `assets` folder in the same directory as the executable. Do not rename, move or delete its contents, as the application relies on these resources for image recognition.
+[**Download Autologger V2 – Latest Release**](https://github.com/Bussy727/AutoLoggerV2-RiotAutoLogger/releases/latest)
+
+Once you are on the Releases page:
+
+1. Open the latest available release.
+2. Navigate to the **Assets** section.
+3. Download `AutologgerV2.exe`.
+
+**Step 2. Launch the application**
+
+1. Locate the downloaded `AutologgerV2.exe`.
+2. Double-click the executable to launch the application.
+3. Complete the initial master password setup.
+
+**Step 3. Keep the required resources**
+
+Make sure the `assets` folder remains in the same directory as the executable.
+
+Do not rename, move or delete its contents, as the application relies on these resources for image recognition.
+
+**That's it!** Autologger V2 is ready to use.
 
 ### Method 2: Running the Python Source Code
 
