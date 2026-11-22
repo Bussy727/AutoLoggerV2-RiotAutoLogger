@@ -1,5 +1,4 @@
 # AutoLoggerV2-RiotAutoLogger
-# Autologger V2
 
 **A Python-based Riot Games account login automation tool.**
 
