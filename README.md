@@ -21,6 +21,7 @@ The application allows users to store, manage and automatically log into multipl
 - [Disclaimer](#disclaimer)
 - [Credits](#credits)
 - [License](#license)
+- [Discord](#discord)
 
 ---
 
@@ -272,3 +273,10 @@ The original project and its associated rights belong to their respective creato
 For complete information regarding permissions, restrictions, redistribution and usage rights, please refer to the **`LICENSE`** file included in the root directory of this repository.
 
 By downloading, modifying or redistributing this project, you agree to respect the terms and conditions established in that license.
+
+---
+
+## Discord
+
+If you want to get the latest updates for the app, talk with other users and even get early info for next updates of the app, just join our discord server and enjoy
+                                                                    https://discord.gg/cDp6xd2vuY
